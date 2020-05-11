@@ -24,7 +24,6 @@ function App() {
   }
 
   const [user, setUser] = useState(newState);
-
   return (
     <div>
       {/* Création des Routes : chaque Route a son Composant */}
