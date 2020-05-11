@@ -1,0 +1,57 @@
+.container {
+  width: 1024px;
+  margin: 20px auto;
+}
+
+header {
+  margin: auto;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: white;
+
+}
+
+header p:first-child {
+  font-family: sans-serif;
+  color: #F56B2A ; 
+  font-size: 40px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+header span {
+  font-family: sans-serif;
+  color: black ; 
+  font-weight: bold;
+  margin: 10px;
+  font-style:italic;
+}
+
+.annonce {
+  font-family: sans-serif;
+  color: white ; 
+  font-weight: bold;
+  margin: 10px;
+  border: 1px solid #F56B2A;
+  background-color:#F56B2A;
+  padding:12px;
+  border-radius: 5px;
+}
+
+.Login {
+  font-weight: bold;
+  font-size: 24px;
+  text-decoration: none;
+  font-style: italic;
+  color: black;
+  padding-bottom:15px;
+}
+
+.Login:hover {
+border-bottom: 2px solid #F56B2A;
+}
+
+.annonce:hover {
+  border-bottom: 2px solid #F56B2A;
+  }

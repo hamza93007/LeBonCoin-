@@ -1,0 +1,15 @@
+#FormDec {
+    font-weight: bold;
+    font-size: 25px;
+    font-style: italic;
+    border-radius: 3px;
+    height: 40px;
+    width: 200px;
+    background-color: white;
+    border: 1px solid white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#FormDec:hover {
+    border-bottom: 2px solid orangered;
+}

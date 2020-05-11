@@ -1,0 +1,44 @@
+.FormOffer {
+    border:1px solid grey;
+    background-color: #FAFAFA;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-bottom: 20px;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.FormOffer img {
+height: 200px ;
+width: 230px ;
+border-radius: 3px;
+}
+
+.FormOffer p {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px;
+}
+
+.FormOffer p:first-child {
+   color: orange;
+}
+
+.FormOffer h1 {
+    font-family: monospace;
+    vertical-align: top;
+    color: #1a1a1a;
+    font-weight: 600;
+    overflow: hidden; 
+
+}
+
+    .FormOffer h1:hover {
+color: orange;
+    }
+
+    .LinkPublication {
+        text-decoration: none;
+    }

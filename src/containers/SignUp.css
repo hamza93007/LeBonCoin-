@@ -1,0 +1,50 @@
+.Box1 {
+display: flex;
+justify-content: center;
+margin-top: 100px;
+}
+
+.Box1 p {
+    font-size: 16px;
+}
+
+.Box1 h3 {
+    color:#4183D7;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+
+.FormSign {
+    width: 500px;
+    border-radius: 3px;
+    height: 40px;
+    margin: 10px;
+    border:1px solid white;
+    background-color: #4183D7;
+    color:white;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 15px;
+
+}
+
+.Box1 input  {
+    width: 500px;
+    height: 40px;
+    border:1px solid black;
+}
+.Box1 h3 {
+    padding-left: 30px;
+    font-style: italic;
+}
+
+.Box1 h2 {
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 15px;
+}
+
+.Box1 h2:hover {
+border-bottom: 2px solid orangered;
+}
